@@ -1,0 +1,15 @@
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-pa-5-lfcoffman\obj\Debug\net6.0\mis-221-pa-5-lfcoffman.csproj.AssemblyReference.cache
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-pa-5-lfcoffman\obj\Debug\net6.0\mis-221-pa-5-lfcoffman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-pa-5-lfcoffman\obj\Debug\net6.0\mis-221-pa-5-lfcoffman.AssemblyInfoInputs.cache
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-pa-5-lfcoffman\obj\Debug\net6.0\mis-221-pa-5-lfcoffman.AssemblyInfo.cs
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-pa-5-lfcoffman\obj\Debug\net6.0\mis-221-pa-5-lfcoffman.csproj.CoreCompileInputs.cache
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-pa-5-lfcoffman\bin\Debug\net6.0\mis-221-pa-5-lfcoffman.exe
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-pa-5-lfcoffman\bin\Debug\net6.0\mis-221-pa-5-lfcoffman.deps.json
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-pa-5-lfcoffman\bin\Debug\net6.0\mis-221-pa-5-lfcoffman.runtimeconfig.json
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-pa-5-lfcoffman\bin\Debug\net6.0\mis-221-pa-5-lfcoffman.dll
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-pa-5-lfcoffman\bin\Debug\net6.0\mis-221-pa-5-lfcoffman.pdb
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-pa-5-lfcoffman\obj\Debug\net6.0\mis-221-pa-5-lfcoffman.dll
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-pa-5-lfcoffman\obj\Debug\net6.0\refint\mis-221-pa-5-lfcoffman.dll
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-pa-5-lfcoffman\obj\Debug\net6.0\mis-221-pa-5-lfcoffman.pdb
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-pa-5-lfcoffman\obj\Debug\net6.0\mis-221-pa-5-lfcoffman.genruntimeconfig.cache
+C:\Users\lfcof\OneDrive - The University of Alabama\MIS 221\mis-221-pa-5-lfcoffman\obj\Debug\net6.0\ref\mis-221-pa-5-lfcoffman.dll
